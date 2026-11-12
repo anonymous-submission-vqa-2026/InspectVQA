@@ -287,8 +287,14 @@ If you use InspectVQA in your research, please cite:
 
 ```bibtex
 @inproceedings{inspectvqa2026,
-  title     = {InspectVQA: Expert-Verified Visual Reasoning for Underwater Pipe Inspection},
-  author    = {Anonymous Authors},
+  title     = {{InspectVQA}: Expert-Verified Visual Reasoning
+               for Underwater Pipe Inspection},
+  author    = {Nguyen, Truong Thanh and
+               Vu, Trung Hieu and
+               Mekala, M. S. and
+               Elyan, Eyad and
+               Nguyen, Tien Thanh},
+  booktitle = {Proceedings of the British Machine Vision Conference (BMVC)},
   year      = {2026}
 }
 ```
