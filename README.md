@@ -64,13 +64,6 @@ from datasets import load_dataset
 
 dataset = load_dataset("anonymousSubmissionVqa2026/InspectVQA")
 ```
-
-Project repository:
-
-```text
-https://github.com/anonymous-submission-vqa-2026/InspectVQA
-```
-
 Dataset repository:
 
 ```text
