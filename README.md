@@ -1,6 +1,6 @@
 # InspectVQA: Expert-Verified Visual Reasoning for Underwater Pipe Inspection
 <!-- [![Paper](https://img.shields.io/badge/Paper-NeurIPS%202026-blue)](./) -->
-[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/anonymousSubmissionVqa2026/InspectVQA)
+[![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/buckets/thanhnguyen7499/InspectVQA-bucket)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Overview
@@ -62,12 +62,12 @@ The dataset is available through Hugging Face:
 ```python
 from datasets import load_dataset
 
-dataset = load_dataset("anonymousSubmissionVqa2026/InspectVQA")
+dataset = load_dataset("thanhnguyen7499/InspectVQA-bucket")
 ```
 Dataset repository:
 
 ```text
-https://huggingface.co/datasets/anonymousSubmissionVqa2026/InspectVQA
+https://huggingface.co/buckets/thanhnguyen7499/InspectVQA-bucket
 ```
 
 ## Dataset Construction Pipeline
